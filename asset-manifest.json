@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calculadora/static/css/main.c0434e24.css",
+    "main.js": "/Calculadora/static/js/main.8e27277b.js",
+    "static/media/banner-marca.png": "/Calculadora/static/media/banner-marca.eca48d70fa8d60f3a000.png",
+    "index.html": "/Calculadora/index.html",
+    "main.c0434e24.css.map": "/Calculadora/static/css/main.c0434e24.css.map",
+    "main.8e27277b.js.map": "/Calculadora/static/js/main.8e27277b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0434e24.css",
+    "static/js/main.8e27277b.js"
+  ]
+}
